@@ -22,3 +22,11 @@ Video available at [Blink them to death using Embedded Swift - Eric Bariaux](htt
 
 Presented at [FOSDEM 2025](https://fosdem.org/2025/)  
 Video available at [Blink them to death using Embedded Swift - Eric Bariaux](https://ftp.belnet.be/mirror/FOSDEM/video/2025/k4401/fosdem-2025-4163-blink-them-to-death-using-embedded-swift.mp4)
+
+## Cryptography 101
+
+A quick introduction to the basic principles of cryptography: hashing, encryption and digital signature.
+
+### SwiftCraft - 20-May-2025
+
+Presented at [SwiftCraft 2025](https://swiftcraft.uk/)
