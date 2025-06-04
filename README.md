@@ -30,3 +30,4 @@ A quick introduction to the basic principles of cryptography: hashing, encryptio
 ### SwiftCraft - 20-May-2025
 
 Presented at [SwiftCraft 2025](https://swiftcraft.uk/)
+I re-recording a video of that talk, available at [Cryptography 101 - May 2025](https://www.youtube.com/watch?v=ua264KkwBE4)
