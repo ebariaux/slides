@@ -23,6 +23,15 @@ Video available at [Blink them to death using Embedded Swift - Eric Bariaux](htt
 Presented at [FOSDEM 2025](https://fosdem.org/2025/)  
 Video available at [Blink them to death using Embedded Swift - Eric Bariaux](https://ftp.belnet.be/mirror/FOSDEM/video/2025/k4401/fosdem-2025-4163-blink-them-to-death-using-embedded-swift.mp4)
 
+## Beyond Xcode: Exploring Apple's Open-Source Offerings
+
+A new talk about a variety of open source packages offered by Apple.
+
+### SwiftLeeds 2025
+
+I'll be presenting this session for the first time at SwiftLeeds.
+Tickets are still available at [SwiftLeeds 2025](https://swiftleeds.co.uk/)
+
 ## Cryptography 101
 
 A quick introduction to the basic principles of cryptography: hashing, encryption and digital signature.
@@ -31,3 +40,9 @@ A quick introduction to the basic principles of cryptography: hashing, encryptio
 
 Presented at [SwiftCraft 2025](https://swiftcraft.uk/)
 I re-recording a video of that talk, available at [Cryptography 101 - May 2025](https://www.youtube.com/watch?v=ua264KkwBE4)
+
+### Do iOS 2025
+
+I'll be presenting an extended version of this talk at the upcoming Do iOS 2025 conference.
+Tickets are still available at [Do iOS 2025 - Tickets](https://do-ios.com/#tickets)
+
