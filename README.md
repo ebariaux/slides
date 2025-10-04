@@ -29,7 +29,7 @@ A new talk about a variety of open source packages offered by Apple.
 
 ### SwiftLeeds 2025
 
-I'll be presenting this session for the first time at SwiftLeeds.
+I'll be presenting this session for the first time at SwiftLeeds.  
 Tickets are still available at [SwiftLeeds 2025](https://swiftleeds.co.uk/)
 
 ## Cryptography 101
@@ -38,11 +38,17 @@ A quick introduction to the basic principles of cryptography: hashing, encryptio
 
 ### SwiftCraft - 20-May-2025
 
-Presented at [SwiftCraft 2025](https://swiftcraft.uk/)
+Presented at [SwiftCraft 2025](https://swiftcraft.uk/)  
 I re-recording a video of that talk, available at [Cryptography 101 - May 2025](https://www.youtube.com/watch?v=ua264KkwBE4)
+
+
+### ServerSide.swift - 3-Oct-2025
+
+Presented at [SwiftSide.swift 2025](https://www.serversideswift.info/)  
+This is a slightly longer version of the talk where I have corrected some of the technical errors that came from a bit of over simplification in the 5 minute version of this talk.
 
 ### Do iOS 2025
 
-I'll be presenting an extended version of this talk at the upcoming Do iOS 2025 conference.
+I'll be presenting an extended version of this talk at the upcoming Do iOS 2025 conference.  
 Tickets are still available at [Do iOS 2025 - Tickets](https://do-ios.com/#tickets)
 
