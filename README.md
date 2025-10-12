@@ -29,8 +29,8 @@ A new talk about a variety of open source packages offered by Apple.
 
 ### SwiftLeeds 2025
 
-I'll be presenting this session for the first time at SwiftLeeds.  
-Tickets are still available at [SwiftLeeds 2025](https://swiftleeds.co.uk/)
+Presented at [SwiftLeeds 2025](https://swiftleeds.co.uk/)  
+Video will be available soon.
 
 ## Cryptography 101
 
