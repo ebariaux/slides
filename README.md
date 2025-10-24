@@ -32,6 +32,11 @@ A new talk about a variety of open source packages offered by Apple.
 Presented at [SwiftLeeds 2025](https://swiftleeds.co.uk/)  
 Video will be available soon.
 
+Sample projects:
+- [MarkdownTOC](https://github.com/nelcea/MarkdownTOC)
+- [Badge Protobuf Example](https://github.com/nelcea/BadgeProtobufExample)
+- [Badge OpenAPI Example](https://github.com/nelcea/BadgeOpenAPIExample)
+
 ## Cryptography 101
 
 A quick introduction to the basic principles of cryptography: hashing, encryption and digital signature.
@@ -46,9 +51,9 @@ I re-recording a video of that talk, available at [Cryptography 101 - May 2025](
 
 Presented at [SwiftSide.swift 2025](https://www.serversideswift.info/)  
 This is a slightly longer version of the talk where I have corrected some of the technical errors that came from a bit of over simplification in the 5 minute version of this talk.
+Video will be available soon.
 
 ### Do iOS 2025
 
 I'll be presenting an extended version of this talk at the upcoming Do iOS 2025 conference.  
 Tickets are still available at [Do iOS 2025 - Tickets](https://do-ios.com/#tickets)
-
