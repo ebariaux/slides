@@ -10,6 +10,8 @@
 
 ## Command-line argument parsing
 
+[MarkdownTOC](https://github.com/nelcea/MarkdownTOC)
+
 [CommandLine | Apple Developer Documentation](https://developer.apple.com/documentation/swift/commandline)
 
 [apple/swift-argument-parser: Straightforward, type-safe argument parsing for Swift](https://github.com/apple/swift-argument-parser)
@@ -19,6 +21,8 @@
 
 ## Protocol Buffer
 
+[Badge Protobuf Example](https://github.com/nelcea/BadgeProtobufExample)
+
 [Protocol Buffers Documentation](https://protobuf.dev/)  
 
 [apple/swift-protobuf: Plugin and runtime library for using protobuf with Swift](https://github.com/apple/swift-protobuf)  
@@ -27,6 +31,8 @@
 [apple/swift-binary-parsing](https://github.com/apple/swift-binary-parsing)  
 
 ## OpenAPI
+
+[Badge OpenAPI Example](https://github.com/nelcea/BadgeOpenAPIExample)
 
 [OpenAPI Initiative – The OpenAPI Initiative provides an open source, technical community, within which industry participants may easily contribute to building a vendor-neutral, portable and an open specification for providing technical metadata for REST APIs – the “OpenAPI Specification” (OAS).](https://www.openapis.org/)  
 
@@ -50,6 +56,8 @@
 
 ## Containerization
 
+[Badge OpenAPI Example](https://github.com/nelcea/BadgeOpenAPIExample)
+
 [How To Put Swift in a Box: Container Images From Scratch With Swift Container Plugin - Euan Harris](https://www.youtube.com/watch?v=MV0wACpikyw)  
 [WWDC 2025 - Meet Containerization](https://developer.apple.com/videos/play/wwdc2025/346/)  
 
@@ -58,6 +66,7 @@
 [apple/swift-container-plugin: Build and publish container images using Swift Package Manager](https://github.com/apple/swift-container-plugin)  
 
 [apple/containerization: Containerization is a Swift package for running Linux containers on macOS.](https://github.com/apple/containerization)  
+
 ## Swift Numerics
 
 [apple/swift-numerics: Advanced mathematical types and functions for Swift](https://github.com/apple/swift-numerics)
@@ -65,6 +74,8 @@
 [WWDC 2020 - Explore numerical computing in Swift](https://developer.apple.com/videos/play/wwdc2020/10217/)  
 
 ## Markdown
+
+[MarkdownTOC](https://github.com/nelcea/MarkdownTOC)
 
 [CommonMark](https://commonmark.org/)
 
