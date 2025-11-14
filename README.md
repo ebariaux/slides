@@ -50,8 +50,8 @@ I re-recording a video of that talk, available at [Cryptography 101 - May 2025](
 ### ServerSide.swift - 3-Oct-2025
 
 Presented at [SwiftSide.swift 2025](https://www.serversideswift.info/)  
-This is a slightly longer version of the talk where I have corrected some of the technical errors that came from a bit of over simplification in the 5 minute version of this talk.
-Video will be available soon.
+This is a slightly longer version of the talk where I have corrected some of the technical errors that came from a bit of over simplification in the 5 minute version of this talk.  
+Video available at [Cryptography 101: What Every Swift Developer Should Understand - Eric Bariaux](https://www.youtube.com/watch?v=hyCmtyLd-HQ)
 
 ### Do iOS 2025
 
