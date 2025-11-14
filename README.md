@@ -55,5 +55,6 @@ Video available at [Cryptography 101: What Every Swift Developer Should Understa
 
 ### Do iOS 2025
 
-I'll be presenting an extended version of this talk at the upcoming Do iOS 2025 conference.  
-Tickets are still available at [Do iOS 2025 - Tickets](https://do-ios.com/#tickets)
+Presented at [Do iOS Developer Conference 2025 Amsterdam](https://do-ios.com/)  
+This is an even longer version of the talk, added HMAC, a word on quantum computers' impact and several examples of security mechanisms that use cryptographic building blocks.  
+Video will be available soon.
