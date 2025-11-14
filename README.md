@@ -30,7 +30,7 @@ A new talk about a variety of open source packages offered by Apple.
 ### SwiftLeeds 2025
 
 Presented at [SwiftLeeds 2025](https://swiftleeds.co.uk/)  
-Video will be available soon.
+Video available at [Beyond Xcode - Eric Bariaux | SwiftLeeds 2025](https://www.youtube.com/watch?v=yHQneZk_LsY)
 
 Sample projects:
 - [MarkdownTOC](https://github.com/nelcea/MarkdownTOC)
