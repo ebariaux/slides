@@ -53,8 +53,8 @@ Presented at [SwiftSide.swift 2025](https://www.serversideswift.info/)
 This is a slightly longer version of the talk where I have corrected some of the technical errors that came from a bit of over simplification in the 5 minute version of this talk.  
 Video available at [Cryptography 101: What Every Swift Developer Should Understand - Eric Bariaux](https://www.youtube.com/watch?v=hyCmtyLd-HQ)
 
-### Do iOS 2025
+### Do iOS 2025 - 12-Nov-2025
 
 Presented at [Do iOS Developer Conference 2025 Amsterdam](https://do-ios.com/)  
 This is an even longer version of the talk, added HMAC, a word on quantum computers' impact and several examples of security mechanisms that use cryptographic building blocks.  
-Video will be available soon.
+Video available at [Cryptography 101: What Every Swift Developer Should Understand](https://www.youtube.com/watch?v=C3ViWhtrKoQ)
