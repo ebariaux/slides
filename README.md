@@ -58,3 +58,14 @@ Video available at [Cryptography 101: What Every Swift Developer Should Understa
 Presented at [Do iOS Developer Conference 2025 Amsterdam](https://do-ios.com/)  
 This is an even longer version of the talk, added HMAC, a word on quantum computers' impact and several examples of security mechanisms that use cryptographic building blocks.  
 Video available at [Cryptography 101: What Every Swift Developer Should Understand](https://www.youtube.com/watch?v=C3ViWhtrKoQ)
+
+## Getting Physical: 3D printing with Swift
+
+A new talk about using [Cadova](https://github.com/tomasf/Cadova) to create models for 3D printing using Swift.
+
+I will have the pleasure to present at:
+
+- [SwiftLeeds](https://swiftleeds.co.uk/) on Oct 14th
+- [Swift Connection](https://swiftconnection.io/) on November 2nd or 3rd
+
+There's still time to get your ticket!
