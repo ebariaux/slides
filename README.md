@@ -61,11 +61,15 @@ Video available at [Cryptography 101: What Every Swift Developer Should Understa
 
 ## Getting Physical: 3D printing with Swift
 
-A new talk about using [Cadova](https://github.com/tomasf/Cadova) to create models for 3D printing using Swift.
+Using [Cadova](https://github.com/tomasf/Cadova), a Swift library offering an embedded DSL to create models for 3D printing using Swift.
 
-I will have the pleasure to present at:
+### SwiftLeeds 2026
 
-- [SwiftLeeds](https://swiftleeds.co.uk/) on Oct 14th
-- [Swift Connection](https://swiftconnection.io/) on November 2nd or 3rd
+Presented at [SwiftLeeds 2026](https://swiftleeds.co.uk/)  
+Videos will be available soon.
+
+### SwiftConnection 2026
+
+I will also have the pleasure to present at [Swift Connection](https://swiftconnection.io/) on November 3rd.
 
 There's still time to get your ticket!
